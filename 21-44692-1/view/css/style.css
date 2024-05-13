@@ -1,0 +1,29 @@
+P{
+    background-color: lightgray;
+}
+
+h2{
+    font-size: 50px;
+    color: blue;
+}
+
+ul{
+    padding: 10px 40px;
+}
+
+ul > li{
+    padding: 5px;
+}
+
+div span{
+    font-size: 18px;
+    color:green;
+}
+
+h3 + a{
+    font-family:'Courier New', Courier, monospace
+}
+
+a{
+    text-decoration: none;
+}
